@@ -32,6 +32,12 @@ h6 {
 
 }
 
+/* will change - wthiout lags */
+
+.content, .hero, .main-header, .gallery > * {
+    will-change: transform;
+} 
+
 body {
     background-image: url(../img/bg.jpg);
     background-size: 50px;
