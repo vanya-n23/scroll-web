@@ -112,4 +112,5 @@ body {
 
 .text-block__p {
     line-height: 1.75;
+    margin-bottom: 1.5rem;
 }
